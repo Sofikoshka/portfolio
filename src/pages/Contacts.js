@@ -19,6 +19,14 @@ function Contacts () {
                         <h2 className="title-2">Email</h2>
                         <p><a href="mailto:sofiakolokolcheva@gmail.com">sofiakolokolcheva@gmail.com</a></p>
                     </li>
+                    <li className="content-list__item">
+                        <h2 className="title-2">Instargam</h2>
+                        <p><a href="mailto:sofiakolokolcheva@gmail.com">sofi.ko_</a></p>
+                    </li>
+                    <li className="content-list__item">
+                        <h2 className="title-2">LinkedIn</h2>
+                        <p><a href="mailto:sofiakolokolcheva@gmail.com">Sofiia Kolokolcheva</a></p>
+                    </li>
                 </ul>
 
         </div>
