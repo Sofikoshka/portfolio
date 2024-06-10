@@ -1,6 +1,6 @@
 import "./styles.css"
 import CV from './../../img/icons/СV_Sofiia-Kolokolcheva.pdf'
-import photo from './../../img/myphoto.svg'
+import photo from './../../img/myphoto.png'
 
 function Header () {
     return (
