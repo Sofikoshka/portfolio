@@ -410,19 +410,33 @@ body {
   
   
 
-@media (max-width: 620px) {
+@media (max-width: 980px) {
 	/* Header  */
 
+	.btn {
+		width: 200px;
+	}
 	.header {
 		min-height: unset;
+		justify-content: space-around !important;
+		flex-direction: column-reverse;
+	}
+
+	.header__wrapper {
+		text-align: center;
 	}
 
 	.header__title {
-		font-size: 30px;
+		font-size: 20px !important;
 	}
 
 	.header__title strong {
-		font-size: 40px;
+		font-size: 30px !important;
+	}
+
+	.header__photo {
+		max-width: 200px;
+		min-width: 180px;
 	}
 
 	/* Nav */
@@ -475,14 +489,6 @@ body {
 	}
 
 	/* Footer */
-
-	.footer {
-		padding: 40px 0 30px;
-	}
-
-	.footer__wrapper {
-		row-gap: 20px;
-	}
 
 	/* Social */
 
