@@ -435,11 +435,12 @@ body {
 	}
 
 	.header__photo {
-		max-width: 200px;
-		min-width: 180px;
+		max-width: 330px;
+		min-width: 230px;
 	}
 
 	/* Nav */
+
 
 	.nav-row {
 		justify-content: space-between;
